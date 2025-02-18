@@ -1,0 +1,12 @@
+.itme{
+                
+    border: 2px solid black;
+}
+.container
+{
+display: grid;
+/* grid-template-columns: 100px ; */
+
+grid-template-columns: repeat(4,  100px);
+
+}
